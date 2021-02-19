@@ -1,0 +1,1160 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dra",
+				"draw_staff\tfunction"
+			],
+			[
+				"dr",
+				"draw_staff\tfunction"
+			],
+			[
+				"create",
+				"create_line\tfunction"
+			],
+			[
+				"get",
+				"get_api_name\tfunction"
+			],
+			[
+				"midi",
+				"midiutil\tmodule"
+			],
+			[
+				"can",
+				"can_be_paid\tstatement"
+			],
+			[
+				"w",
+				"width\tAttr"
+			],
+			[
+				"sample_",
+				"sample_editor\tmodule"
+			],
+			[
+				"Art",
+				"ArtsHandler\tclass"
+			],
+			[
+				"art",
+				"arts_handler\tmodule"
+			],
+			[
+				"Loo",
+				"LoopSlicer\tclass"
+			],
+			[
+				"hop",
+				"hop_length=\tparam"
+			],
+			[
+				"frame",
+				"frame_length\tstatement"
+			],
+			[
+				"logica",
+				"logical_not\tinstance"
+			],
+			[
+				"clean",
+				"clean_weighted\tstatement"
+			],
+			[
+				"gre",
+				"greater_equal\tinstance"
+			],
+			[
+				"med",
+				"median\tfunction"
+			],
+			[
+				"fram",
+				"frame_length\tstatement"
+			],
+			[
+				"mode",
+				"mode_equivalents\tstatement"
+			],
+			[
+				"onse",
+				"onset_wait"
+			],
+			[
+				"sample",
+				"sample_end\tstatement"
+			],
+			[
+				"meta",
+				"metadata_key_rr\tfunction"
+			],
+			[
+				"key",
+				"metadata_key\tfunction"
+			],
+			[
+				"Pic",
+				"PitchError\tclass"
+			],
+			[
+				"enum",
+				"enum_index\tstatement"
+			],
+			[
+				"regio",
+				"regions_w_metadata\tstatement"
+			],
+			[
+				"era",
+				"erase_metadata\tfunction"
+			],
+			[
+				"reg",
+				"regions_w_mdata\tstatement"
+			],
+			[
+				"ih",
+				"items_handler=\tparam"
+			],
+			[
+				"value",
+				"values\tparam"
+			],
+			[
+				"fade_",
+				"fade_out\tstatement"
+			],
+			[
+				"wildcar",
+				"wildcards_i\tstatement"
+			],
+			[
+				"Wild",
+				"Wildcard\tclass"
+			],
+			[
+				"proce",
+				"process_wildcards\tfunction"
+			],
+			[
+				"spl",
+				"split_by_items_gaps\tfunction"
+			],
+			[
+				"rgn",
+				"rgn_w_mdata\tstatement"
+			],
+			[
+				"rgns",
+				"regions_w_mdata\tstatement"
+			],
+			[
+				"Regio",
+				"RegionContents\tclass"
+			],
+			[
+				"fade",
+				"fade_all\tfunction"
+			],
+			[
+				"Value",
+				"ValuesFilledType\tclass"
+			],
+			[
+				"F",
+				"FadeRegions\tclass"
+			],
+			[
+				"dire",
+				"direction_text"
+			],
+			[
+				"dir",
+				"direction_text"
+			],
+			[
+				"for",
+				"for_selection\tstatement"
+			],
+			[
+				"item_",
+				"item_for_selection\tfunction"
+			],
+			[
+				"region",
+				"region_bounds"
+			],
+			[
+				"item",
+				"item_bounds\tparam"
+			],
+			[
+				"regi",
+				"region_bounds\tparam"
+			],
+			[
+				"all",
+				"all_items\tstatement"
+			],
+			[
+				"sele",
+				"select_all_items\tfunction"
+			],
+			[
+				"def",
+				"defaults=\tparam"
+			],
+			[
+				"Filed",
+				"ValuesFilledType"
+			],
+			[
+				"Items",
+				"ItemsHandler\tclass"
+			],
+			[
+				"bound",
+				"bounds\tstatement"
+			],
+			[
+				"sam",
+				"sample\tstatement"
+			],
+			[
+				"want",
+				"want_trend\tparam"
+			],
+			[
+				"has",
+				"has_one\tstatement"
+			],
+			[
+				"SHA",
+				"FADE_SHAPES"
+			],
+			[
+				"pos",
+				"position\tfunction"
+			],
+			[
+				"get_fi",
+				"get_first_rms_value_ms\tfunction"
+			],
+			[
+				"min",
+				"min_duration=\tparam"
+			],
+			[
+				"mid",
+				"min_duration\tparam"
+			],
+			[
+				"post",
+				"post_marker\tstatement"
+			],
+			[
+				"val",
+				"val_normalized\tstatement"
+			],
+			[
+				"leng",
+				"length_convert\tfunction"
+			],
+			[
+				"Item",
+				"ItemsError\tclass"
+			],
+			[
+				"next",
+				"next_onset\tstatement"
+			],
+			[
+				"len",
+				"length_convert\tfunction"
+			],
+			[
+				"unit",
+				"units_target"
+			],
+			[
+				"units",
+				"units_def"
+			],
+			[
+				"uni",
+				"units_def\tparam"
+			],
+			[
+				"sampl",
+				"samples_to_time\tfunction"
+			],
+			[
+				"sa",
+				"samples_to_frames\tfunction"
+			],
+			[
+				"db",
+				"db_to_amplitude\tfunction"
+			],
+			[
+				"sil",
+				"post_silence"
+			],
+			[
+				"start",
+				"start_offset\tparam"
+			],
+			[
+				"star",
+				"start_offset\tstatement"
+			],
+			[
+				"items",
+				"items_handler\tparam"
+			],
+			[
+				"time_",
+				"time_to_samples\tfunction"
+			],
+			[
+				"load",
+				"load_values"
+			],
+			[
+				"Type",
+				"TypeError\tclass"
+			],
+			[
+				"menu",
+				"MainMenu\tclass"
+			],
+			[
+				"DEFA",
+				"DEFAULT_BACKGROUND_COLOR\tstatement"
+			],
+			[
+				"BACK",
+				"DEFAULT_ELEMENT_BACKGROUND_COLOR\tstatement"
+			],
+			[
+				"Menu",
+				"MenuBar\tstatement"
+			],
+			[
+				"main",
+				"main_menu\tparam"
+			],
+			[
+				"Me",
+				"MenuBar\tstatement"
+			],
+			[
+				"Tab",
+				"TabGroup\tclass"
+			],
+			[
+				"back",
+				"backtrack"
+			],
+			[
+				"defa",
+				"default_value"
+			],
+			[
+				"Che",
+				"Checkbox\tclass"
+			],
+			[
+				"Col",
+				"Column\tclass"
+			],
+			[
+				"frames_",
+				"frames_to_samples\tfunction"
+			],
+			[
+				"onset",
+				"onset_envelope\tstatement"
+			],
+			[
+				"fmi",
+				"fmin=\tparam"
+			],
+			[
+				"ch",
+				"chroma_cqt\tfunction"
+			],
+			[
+				"fra",
+				"frames_to_time\tfunction"
+			],
+			[
+				"add",
+				"add_marker\tfunction"
+			],
+			[
+				"post_",
+				"post_max\tstatement"
+			],
+			[
+				"_audio_",
+				"_audio_mono\tstatement"
+			],
+			[
+				"bac",
+				"onset_backtrack\tfunction"
+			],
+			[
+				"time",
+				"time_to_frames\tfunction"
+			],
+			[
+				"times",
+				"times_like\tfunction"
+			],
+			[
+				"tim",
+				"time_to_samples\tfunction"
+			],
+			[
+				"ons",
+				"onsets_vis\tstatement"
+			],
+			[
+				"pi",
+				"peak_pick\tfunction"
+			],
+			[
+				"repla",
+				"replace_all_samplemod\tfunction"
+			],
+			[
+				"pro",
+				"project_id\tstatement"
+			],
+			[
+				"enu",
+				"enum_index\tparam"
+			],
+			[
+				"pare",
+				"parent_project_id=\tparam"
+			],
+			[
+				"mrk",
+				"marker"
+			],
+			[
+				"reasc",
+				"reascript_api\tmodule"
+			],
+			[
+				"find",
+				"find\tfunction"
+			],
+			[
+				"std",
+				"stdout\tstatement"
+			],
+			[
+				"fin",
+				"find\tfunction"
+			],
+			[
+				"as",
+				"absolute\tfunction"
+			],
+			[
+				"split",
+				"split_ih\tstatement"
+			],
+			[
+				"Wildc",
+				"Wildcard\tclass"
+			],
+			[
+				"sile",
+				"silence_treshold"
+			],
+			[
+				"sus_",
+				"sus_want_cut"
+			],
+			[
+				"Valu",
+				"ValuesType\tclass"
+			],
+			[
+				"upda",
+				"update_timeline\tfunction"
+			],
+			[
+				"Pop",
+				"PopupOK\tfunction"
+			],
+			[
+				"count",
+				"count_ts"
+			],
+			[
+				"medi",
+				"median_rms"
+			],
+			[
+				"cut",
+				"cut_handler"
+			],
+			[
+				"fade_o",
+				"fade_out_time"
+			],
+			[
+				"e",
+				"end\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "my_big_note/__init__.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "my_big_note/midi_in.py",
+			"settings":
+			{
+				"buffer_size": 444,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.py",
+			"settings":
+			{
+				"buffer_size": 2097,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"previw",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"jed",
+				"SublimeJedi: Show Signature"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/levitanus/gits/MyBigNote",
+		"/home/levitanus/gits/MyBigNote/my_big_note"
+	],
+	"file_history":
+	[
+		"/home/levitanus/gits/MyBigNote/test.py",
+		"/home/levitanus/gits/music and IT conference/README.md",
+		"/home/levitanus/gits/music and IT conference/Доклад для Музыки-Интеграл.md",
+		"/home/levitanus/gits/music and IT conference/Доклад для Музыки-Интеграл.html",
+		"/home/levitanus/gits/polifonia-nsk/polifonia_app/templates/about_us.html",
+		"/home/levitanus/gits/polifonia-nsk/polifonia_app/templates/index.html",
+		"/home/levitanus/gits/polifonia-nsk/polifonia_app/templates/base.html",
+		"/home/levitanus/gits/polifonia-nsk/polifonia_app/app.py",
+		"/home/levitanus/gits/polifonia-nsk/polifonia_app/static/css/style.css",
+		"/home/levitanus/gits/polifonia-nsk/setup.py",
+		"/home/levitanus/gits/polifonia-nsk/polifonia_app/public/models.py",
+		"/home/levitanus/gits/polifonia-nsk/polifonia_app/public/views.py",
+		"/home/levitanus/gits/polifonia-nsk/polyphony.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/config.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/normalizer.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/main_gui.py",
+		"/home/levitanus/gits/sample_editor/test.py",
+		"/home/levitanus/gits/sample_editor/test_arts.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/loudness.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/item_handler.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/pitch_tracker.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/arts_handler.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/loop_slicer.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/abstract.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/__init__.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/widgets.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/tools.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/widgets.py",
+		"/home/levitanus/gits/sample_editor/test2.py",
+		"/home/levitanus/gits/sample_editor/test3.py",
+		"/home/levitanus/gits/sample_editor/sample_maps.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui/__init__>py",
+		"/home/levitanus/gits/sample_editor/sample_editor/gui.py",
+		"/media/levitanus/RAID/contrabasses/контрабасы cut shorts.rpp",
+		"/media/levitanus/RAID/contrabasses/контрабасы cut shorts look.RPP",
+		"/home/levitanus/gits/reapy/reapy/core/project/project.py",
+		"/home/levitanus/Загрузки/temp/🔸 Вода и еда.",
+		"/home/levitanus/gits/sample_editor/test_arts_bck.py",
+		"/home/levitanus/gits/reapy/reapy/core/reapy_object.pyi",
+		"/home/levitanus/gits/sample_editor/sample_editor/render_tools.py",
+		"/home/levitanus/gits/reapy/reapy/core/item/item.py",
+		"/media/levitanus/RAID/contrabasses/контрабасы cut shorts.RPP",
+		"/media/levitanus/RAID/contrabasses/контрабасы cut shortsrpp.RPP",
+		"/home/levitanus/.local/lib/python3.8/site-packages/PySimpleGUI/PySimpleGUI.py",
+		"/home/levitanus/Документы/2021.01.18 обращение Бондаренко.txt",
+		"/home/levitanus/gits/reapy/reapy/core/project/region.py",
+		"/media/levitanus/RAID/contrabasses/RFS CB hise/Scripts/rlsLegFilter.js",
+		"/media/levitanus/RAID/contrabasses/RFS CB hise/Scripts/StartOffset.js",
+		"/home/levitanus/gits/sample_editor/.ropeproject/config.py",
+		"/media/levitanus/RAID/contrabasses/RFS CB hise/Scripts/event_filter.js",
+		"/media/levitanus/RAID/contrabasses/RFS CB hise/Scripts/sulHandler.js",
+		"/media/levitanus/RAID/contrabasses/RFS CB hise/Binaries/Builds/LinuxMakefile/Makefile",
+		"/home/levitanus/gits/sample_editor/out.xml",
+		"/media/levitanus/RAID/contrabasses/RFS CB hise/SampleMaps/cb Trem sulTop sus.xml",
+		"/media/levitanus/RAID/contrabasses/RFS CB hise/SampleMaps/cb Trem sulTop sus_edit.xml",
+		"/home/levitanus/.config/sublime-text-3/Packages/User/HISEScript.sublime-settings",
+		"/home/levitanus/.config/sublime-text-3/Packages/HISEScript/HISEScript.sublime-settings",
+		"/home/levitanus/gits/reapy/reapy/__init__.py",
+		"/home/levitanus/gits/reapy/reapy/core/__init__.py",
+		"/home/levitanus/gits/reapy/reapy/core/project/__init__.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/test2.py",
+		"/home/levitanus/gits/sample_editor/README.md",
+		"/home/levitanus/gits/sample_editor/setup.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/__main__.py",
+		"/media/levitanus/RaidNew/Емельянов/samplopomogator/samplopomogator/__main__.py",
+		"/media/levitanus/RaidNew/Емельянов/samplopomogator/setup.py",
+		"/home/levitanus/.local/lib/python3.8/site-packages/librosa/core/convert.py",
+		"/home/levitanus/gits/rope/ropetest/refactor/extracttest.py",
+		"/home/levitanus/gits/rope/ropetest/refactor/patchedasttest.py",
+		"/opt/REAPER/Plugins/reaper_python.py",
+		"/media/levitanus/RAID/contrabasses/контрабасы cut trem.rpp",
+		"/home/levitanus/gits/sample_editor/sample_editor/persistence.py",
+		"/home/levitanus/gits/rope/rope/refactor/patchedast.py",
+		"/home/levitanus/gits/test.py",
+		"/home/levitanus/gits/rope/ropetest/refactor/renametest.py",
+		"/home/levitanus/gits/rope/rope/refactor/similarfinder.py",
+		"/home/levitanus/gits/rope/rope/refactor/extract.py",
+		"/home/levitanus/gits/sample_editor/stat_arts.py",
+		"/media/levitanus/RaidNew/Емельянов/samplopomogator/samplopomogator/gui.py",
+		"/home/levitanus/gits/LinVst/Makefile-64-32bit",
+		"/home/levitanus/gits/LinVst/Makefile",
+		"/home/levitanus/gits/sample_editor/sample_editor/loop_finder.py",
+		"/media/levitanus/RaidNew/Гитара пример/Resources/scripts/IndiPop sublime/main.ksp",
+		"/media/levitanus/RaidNew/Гитара пример/Resources/scripts/guitar.ksp",
+		"/media/levitanus/RaidNew/Гитара пример/Resources/scripts/IndiPop sublime/definition.ksp",
+		"/media/levitanus/RaidNew/Емельянов/samplopomogator/__main__.py",
+		"/media/levitanus/RaidNew/Емельянов/samplopomogator/samplopomogator/loop_finder.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/test.py",
+		"/home/levitanus/gits/pitch-detection-librosa-python-master/script_final.py",
+		"/media/levitanus/RaidNew/Емельянов/samplopomogator/samplopomogator/item_handler.py",
+		"/home/levitanus/.config/sublime-text-3/Packages/AutoDocstring/Default (Linux).sublime-keymap",
+		"/home/levitanus/gits/sample_editor/sample_editor/audio.py",
+		"/home/levitanus/gits/sample_editor/sample_editor/test_reastream.py",
+		"/home/levitanus/.config/REAPER/Scripts/left_click.py",
+		"/home/levitanus/.local/lib/python3.7/site-packages/pymouse/unix.py",
+		"/home/levitanus/.local/lib/python3.7/site-packages/pymouse/__init__.py",
+		"/home/levitanus/.wine/drive_c/users/levitanus/Local Settings/Application Data/Programs/Python/Python38/Lib/site-packages/win32/win32api.pyd",
+		"/home/levitanus/gits/numpy-stubs/numpy-stubs/__init__.pyi",
+		"/home/levitanus/.local/lib/python3.7/site-packages/reapy/__init__.py",
+		"/home/levitanus/.local/lib/python3.7/site-packages/reapy/tools/__init__.py",
+		"/home/levitanus/Загрузки/LinVst-master/Makefile-embed-6432",
+		"/home/levitanus/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/levitanus/gits/sample_editor/sample_editor.sublime-project",
+		"/home/levitanus/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/media/levitanus/RaidNew/progr/reapy/reapy/tools/__init__.pyi",
+		"/media/levitanus/RaidNew/progr/reapy/reapy/reascript_api.py",
+		"/home/levitanus/.config/sublime-text-3/Packages/User/python3_my.sublime-build",
+		"/media/levitanus/RaidNew/progr/reapy/reapy/tools/inside_reaper_.pyi",
+		"/media/levitanus/RaidNew/progr/reapy/reapy/reascripts/enable_dist_api.py",
+		"/media/levitanus/RaidNew/progr/reapy/reapy/config.pyi",
+		"/media/levitanus/RaidNew/progr/reapy/reapy/config.py",
+		"/media/levitanus/RaidNew/progr/reapy/reapy/__init__.pyi",
+		"/media/levitanus/RaidNew/progr/reapy/reapy/tools/__init__.py",
+		"/D/gits/reapy/reapy/__init__.py",
+		"/D/gits/reapy/reapy/core/__init__.py",
+		"/D/gits/reapy/reapy/core/item/__init__.py",
+		"/D/gits/reapy/reapy/core/item/source.py",
+		"/D/gits/sample_editor/sample_editor/__init__.py",
+		"/D/gits/sample_editor/sample_editor/sub_package/sub_module.py",
+		"/D/gits/sample_editor/sample_editor/sub_package/__init__.py",
+		"/D/gits/sample_editor/sample_editor/audio.py",
+		"/D/gits/sample_editor/setup.py",
+		"/D/gits/sample_editor/sample_editor/pt.typed",
+		"/D/gits/reapy/setup.py",
+		"/D/gits/test.py",
+		"/D/gits/reapy/reapy/core/reaper/reaper.pyi",
+		"/C/Users/Levitanus/AppData/Roaming/Sublime Text 3/Packages/User/PyYapf.sublime-settings",
+		"/D/gits/reapy/reapy/core/window/tooltip.pyi"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"D:\\gits\\reapy\\reapy"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"15",
+			"*1",
+			"Tkinter",
+			"index",
+			"(1",
+			"s>",
+			"str",
+			"0б",
+			"б",
+			"clean_rms",
+			"bounds of",
+			"metadata_key",
+			"print",
+			"Shorts",
+			"SHORTS",
+			"int",
+			"frame_length",
+			"overload",
+			"def",
+			"Iterable",
+			"8000",
+			"rgn_w_mdata",
+			"regions",
+			"NamedSlider",
+			"rls_regs",
+			"direction_text",
+			"get_all_regions",
+			"ty.Optional[RegionContents]",
+			"int",
+			"sample_Start",
+			"deleted",
+			"rel_fade_out_time",
+			"rel_fade_out_sh",
+			"pos",
+			"post_marker",
+			"units_def",
+			"start_offset",
+			"frame_length",
+			"start_offset",
+			"st_ofst_spl",
+			"so",
+			"start_offset",
+			"ty.Dict[str, ty.Union[str, float, bool]]",
+			"self",
+			"Shorts_silence_treshold",
+			"COLOR",
+			"color",
+			"Color",
+			"tab",
+			"pre_onset",
+			"post_silence",
+			"pre_silence",
+			"articulation",
+			"art_name",
+			"rpr.Region, ty.Dict[str, object]",
+			"ty.Tuple[rpr.Region, ty.Dict[str, object]]",
+			"ValuesType",
+			"ValuesTy",
+			"None",
+			"post_max",
+			"post_avg",
+			"post_max",
+			"post_avg",
+			"onset_delta",
+			"time in ms",
+			"frames_to_time",
+			"int",
+			"15",
+			"8",
+			"sr / 10",
+			"onset_str",
+			"ipp",
+			"maker",
+			"mrk",
+			"print",
+			"point",
+			"samplopomogator",
+			"te",
+			"retval",
+			"dynmusical",
+			"dyn",
+			"sg.PopupOK()",
+			"cut_handler",
+			"silence_trashold",
+			"self.pr.time_selection",
+			"process",
+			"Undo_EndBlock2",
+			"end_u",
+			"persi",
+			"persis",
+			")\n",
+			"persis",
+			"'arts_file'",
+			"ah",
+			": ",
+			"assig",
+			"assi",
+			"cond",
+			"repr",
+			"simple",
+			"nsimple",
+			"tab_layout",
+			"process_wildcards",
+			"print",
+			"rmsmedian",
+			"str(wildcard)",
+			", ",
+			"self.",
+			"darts_instances",
+			"articulation",
+			"region_mask",
+			"update{",
+			"contens",
+			"ty.Dict[Wildcard, ty.Union[str, float]]",
+			"region_mask",
+			"dyn_mudical",
+			": str",
+			"Wildcard",
+			"Wildcard('",
+			"Wildcard(",
+			"Wildcard",
+			"self",
+			"median",
+			"rms",
+			"dynpeak",
+			"dynrms",
+			"dynpeak",
+			"root"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ValuesFilledType"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "my_big_note/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "my_big_note/midi_in.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								300
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric, meta.interpolated.format.fstring"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2097,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1575,
+								1575
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric, meta.interpolated.format.fstring"
+								}
+							],
+							"complete_parameters": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 224.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 129.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 126.0
+	},
+	"output.exec":
+	{
+		"height": 242.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "MyBigNote.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 516.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/gits/sample_editor/sample_editor.sublime-project"
+			]
+		],
+		"width": 392.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
