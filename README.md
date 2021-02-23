@@ -20,7 +20,7 @@ The very simple app that draws one note that is currently down on the MIDI-keybo
 
 ## Установка
 
-![download](screenshot_download_zip.png)
+![download](screnshot_download_zip.png)
 
 Скачать всё и распаковать куда-нибудь
 
@@ -30,9 +30,11 @@ The very simple app that draws one note that is currently down on the MIDI-keybo
 
 ### Вариант «если не повезло»
 
-Какчаем [это](https://www.python.org/ftp/python/3.9.2/python-3.9.2.exe) и устанавливаем.
+Качаем [это](https://www.python.org/ftp/python/3.9.2/python-3.9.2.exe) и устанавливаем.
 
 **обязательно ставим галочку на «add Python to PATH»**
+
+![галка на PATH](screnshot_path.png)
 
 Потом ищем в меню «Пуск» программу cmd.exe (командная строка)
 
