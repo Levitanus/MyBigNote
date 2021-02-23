@@ -42,6 +42,8 @@ The very simple app that draws one note that is currently down on the MIDI-keybo
 pip install -e "путь\к\распакованной\программе\MyBigNote"
 ```
 
-И потом она должна запускаться также из командной строки, либо: `my_big_note`, либо, если не сработает — `python "путь\к\распакованной\программе\MyBigNote\my_big_note.py"`
+И потом она должна запускаться также из командной строки, либо: `my_big_note`, либо, если не сработает:
+
+```python "путь\к\распакованной\программе\MyBigNote\my_big_note.py"```
 
 К сожалению, ничего приличне по установке не получается...
