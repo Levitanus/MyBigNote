@@ -12,6 +12,8 @@ The very simple app that draws one note that is currently down on the MIDI-keybo
 - Choose midi device in the top right corner
 - If you want to specify the clef — choose it in the bottom left corner
 
-- Ввыбрать миди драйвер с левом рехнем углу
+## Инструкция
+
+- Выбрать миди драйвер с левом рехнем углу
 - Выбрать миди-устройство (клавиатуру) в верхнем правом углу
 - Если нужно использовать окнкретный ключ — выбрать его в левом нижнем углу
