@@ -1,4 +1,5 @@
 import typing as ty
+from pathlib import Path
 
 import pygame
 import pygame.locals as lc
@@ -6,6 +7,7 @@ import pygame_gui
 
 from .midi_prefs import MidiPrefsWidget, MIDI_HEIGHT
 from .staff import Staff
+from .gui_tools import load_svg
 
 
 class App:
@@ -18,6 +20,10 @@ class App:
         size = (500, 500)
         self.screen = pygame.display.set_mode(size, self.flags)
         self.running = True
+        pygame.display.set_caption('MyBigNote (by Levitanus)')
+        pygame.display.set_icon(
+            load_svg(str(Path(__file__).parent / Path('images/note.svg')), 25)
+        )
         self.manager = pygame_gui.UIManager(size)
 
         self.staff = Staff(
@@ -47,7 +53,7 @@ class App:
         """Run the main event loop."""
         clock = pygame.time.Clock()
         while self.running:
-            time_delta = clock.tick(60) / 1000.0
+            time_delta = clock.tick(20) / 1000.0
             events = pygame.event.get()
             for event in events:
                 if event.type == lc.QUIT:
