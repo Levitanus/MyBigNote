@@ -1,7 +1,7 @@
 import typing as ty
 
 import pygame
-import pygame.locals as lc
+# import pygame.locals as lc
 import pygame_gui
 from pathlib import Path
 
@@ -102,7 +102,6 @@ class Staff:
         self._note = note
         if note is None:
             return
-        print(self.clef.selected_option)
         if self.clef.selected_option == 'auto':
             if note < 57:
                 self.selected_clef = 'басовый'
