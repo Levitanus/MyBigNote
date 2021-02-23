@@ -17,9 +17,17 @@ setuptools.setup(
         "License :: GNU/GPLv3",
         "Operating System :: OS Independent",
     ],
+    install_requires=[
+        "setuptools>=42", "wheel", "CairoSVG>=2.5", "pygame>=2.0.1",
+        "pygame-gui>=0.5.6", "python-rtmidi>=1.4"
+    ],
     entry_points={
         'console_scripts': ['my_big_note = my_big_note.__main__:main']
     },
-    packages=setuptools.find_packages(),
+    packages=['my_big_note'],
     python_requires='>=3.7',
+    package_data={
+        'my_big_note': ['images/*.svg'],
+    },
+    include_package_data=True,
 )

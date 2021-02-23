@@ -1,8 +1,0 @@
-[build-system]
-requires = [
-    "CairoSVG==2.5.1",
-    "pygame==2.0.1",
-    "pygame-gui",
-    "python-rtmidi==1.4.7"
-]
-build.backend = "setuptools.build_meta"
