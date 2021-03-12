@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Levitanus/MyBigNote.svg?branch=main)](https://travis-ci.com/Levitanus/MyBigNote)
+
 # MyBigNote
 
 The very simple app that draws one note that is currently down on the MIDI-keyboard. It was designed for my good friend Nadya Skvortsova to help her in her musical therapy work.
@@ -30,9 +32,10 @@ The very simple app that draws one note that is currently down on the MIDI-keybo
 sudo apt install jackd2 libjack-jackd2-dev libasound2-dev
 ```
 
-На всякий случай проверяем, что установлен `pip`:
+На всякий случай проверяем, что установлены `git` и `pip`:
 
 ```
+sudo apt install git
 sudo apt install python3-pip
 ```
 
@@ -56,6 +59,7 @@ sudo apt-get update
 sudo apt-get install jackd2
 sudo apt-get install libjack-jackd2-dev
 sudo apt-get install libasound2-dev
+sudo apt-get install git
 sudo apt-get install python3-pip
 pip3 install git+https://github.com/Levitanus/MyBigNote
 my_big_note
