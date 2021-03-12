@@ -27,7 +27,7 @@ The very simple app that draws one note that is currently down on the MIDI-keybo
 У программы есть неприятная зависимость `rtmidi`, для которой надо установить свои зависимости, поэтому сначала устанавливаем их:
 
 ```
-sudo apt install jackd2 jackd2 libjack-jackd2-dev libasound2-dev python3-rtmidi
+sudo apt install jackd2 libjack-jackd2-dev libasound2-dev
 ```
 
 На всякий случай проверяем, что установлен `pip`:
