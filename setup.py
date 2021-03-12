@@ -25,7 +25,7 @@ setuptools.setup(
         'console_scripts': ['my_big_note = my_big_note.__main__:main']
     },
     packages=['my_big_note'],
-    python_requires='>=3.7',
+    python_requires='>=3.6',
     package_data={
         'my_big_note': ['images/*.svg'],
     },
