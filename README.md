@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.com/Levitanus/MyBigNote.svg?branch=main)](https://travis-ci.com/Levitanus/MyBigNote)
+[![Build Status 3.8](https://travis-ci.com/Levitanus/MyBigNote.svg?branch=main/1)](https://travis-ci.com/Levitanus/MyBigNote)
+[![Build Status 3.6](https://travis-ci.com/Levitanus/MyBigNote.svg?branch=main/2)](https://travis-ci.com/Levitanus/MyBigNote)
+[![Build Status 3.7](https://travis-ci.com/Levitanus/MyBigNote.svg?branch=main/3)](https://travis-ci.com/Levitanus/MyBigNote)
 
 # MyBigNote
 
