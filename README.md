@@ -20,6 +20,36 @@ The very simple app that draws one note that is currently down on the MIDI-keybo
 
 ## Установка
 
+### Установка на Linux
+
+У программы есть неприятная зависимость `rtmidi`, для которой надо установить свои зависимости, поэтому сначала устанавливаем их:
+
+```
+sudo apt install jackd2 jackd2 libjack-jackd2-dev libasound2-dev python3-rtmidi
+```
+
+На всякий случай проверяем, что установлен `pip`:
+
+```
+sudo apt install python3-pip
+```
+
+Ну и напоследок устанавливаем саму программку:
+
+```
+pip3 install git+https://github.com/Levitanus/MyBigNote
+```
+
+запускаем с помощью:
+
+```
+my_big_note
+```
+
+### Установка на windows
+
+тернистая и не рекомендуется, скоро заменю эту прогармму аналогичной из соседнего репозитория `RustedBigNote`.
+
 ![download](screnshot_download_zip.png)
 
 Скачать всё и распаковать куда-нибудь

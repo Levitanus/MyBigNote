@@ -1,0 +1,10 @@
+language: python
+os: linux
+# jobs:
+#   include:
+#   - name: "3.8"
+#     python: "3.8"
+script:
+  - sudo apt install jackd2 jackd2 libjack-jackd2-dev libasound2-dev python3-rtmidi
+  - sudo apt install python3-pip
+  - pip3 install git+https://github.com/Levitanus/MyBigNote
