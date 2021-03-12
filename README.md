@@ -22,6 +22,8 @@ The very simple app that draws one note that is currently down on the MIDI-keybo
 
 ### Установка на Linux
 
+Я очень надеюсь, что у вас Ubuntu или Debian, потому что для других дистрибутивов будут немного другие названия зависимостей в других менеджерах. Но, надеюсь, что всё сработает с первого раза)
+
 У программы есть неприятная зависимость `rtmidi`, для которой надо установить свои зависимости, поэтому сначала устанавливаем их:
 
 ```
@@ -43,6 +45,19 @@ pip3 install git+https://github.com/Levitanus/MyBigNote
 запускаем с помощью:
 
 ```
+my_big_note
+```
+
+В общем случае можно попробовать прямо скопировать всё нижеследуюющее и должно сразу запуститься:
+
+
+```
+sudo apt-get update
+sudo apt-get install jackd2
+sudo apt-get install libjack-jackd2-dev
+sudo apt-get install libasound2-dev
+sudo apt-get install python3-pip
+pip3 install git+https://github.com/Levitanus/MyBigNote
 my_big_note
 ```
 
