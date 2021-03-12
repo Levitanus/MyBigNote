@@ -6,6 +6,9 @@ jobs:
     python: "3.8"
 script:
   - sudo apt-get update
-  - sudo apt-get install jackd2 jackd2 libjack-jackd2-dev libasound2-dev python3-rtmidi
+  - sudo apt-get install jackd2
+  - sudo apt-get install libjack-jackd2-dev
+  - sudo apt-get install libasound2-dev
+  - sudo apt-get install python3-rtmidi
   - sudo apt-get install python3-pip
   - pip3 install git+https://github.com/Levitanus/MyBigNote
